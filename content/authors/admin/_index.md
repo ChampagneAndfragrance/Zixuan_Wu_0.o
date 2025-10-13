@@ -68,7 +68,7 @@ education:
       Thesis on _Model-assisted RL and IL in Multi-agent Systems_. Supervised by [Prof Matthew Gombolay](https://www.cc.gatech.edu/people/matthew-gombolay).
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
+      url: 'https://ece.gatech.edu/event/2025/03/20/phd-proposal-oral-exam-zixuan-wu'
   - area: M.S., Electrical and Computer Engineering
     institution: Georgia Institute of Technology
     date_start: 2019-08-15
@@ -77,7 +77,7 @@ education:
       Thesis on _Trajectory Servoing: Image-Based Trajectory Tracking without Absolute Positioning_. Supervised by [Prof Patricio Vela](https://ece.gatech.edu/directory/patricio-antonio-vela).
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
+      url: 'https://repository.gatech.edu/entities/publication/e0d37298-543b-479d-9ae8-a9ffb4601015'
   - area: BSc
     institution: Harbin Institute of Technology
     date_start: 2015-09-01
@@ -92,9 +92,10 @@ work:
     company_logo: ''
     date_start: 2025-05-27
     date_end: 2025-08-15
-    summary: |2-
+    summary: |3-
       Responsibilities include:
-      - Scene Understanding and GenAI for AD
+      - Scene Understanding and GenAI for Autonomous Driving: Design a cross-domain generalizable parking pipeline with diffusion and visual foundation model
+      - Submit a first-authored ICRA paper on _Dino-Diffusion Modular Designs Bridge the Cross-Domain Gap in Autonomous Parking. Managed by [Dr. Yuliang Guo](https://yuliangguo.github.io/)
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
