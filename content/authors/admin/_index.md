@@ -92,7 +92,7 @@ work:
     company_logo: ''
     date_start: 2025-05-27
     date_end: 2025-08-15
-    summary: |3-
+    summary: |
       Responsibilities include:
       - Scene Understanding and GenAI for Autonomous Driving: Design a cross-domain generalizable parking pipeline with diffusion and visual foundation model
       - Submit a first-authored ICRA paper on _Dino-Diffusion Modular Designs Bridge the Cross-Domain Gap in Autonomous Parking. Managed by [Dr. Yuliang Guo](https://yuliangguo.github.io/)
