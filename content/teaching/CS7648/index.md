@@ -9,5 +9,3 @@ tags:
 image:
   caption: 'WAM robot to play ping-pong by imitation learning'
 ---
-
-## Did you find this page helpful? Consider sharing it 🙌

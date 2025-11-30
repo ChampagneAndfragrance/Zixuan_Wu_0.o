@@ -11,5 +11,3 @@ tags:
 image:
   caption: 'Image credit: [**ICRA 2025**](https://2025.ieee-icra.org/)'
 ---
-
-## Did you find this page helpful? Consider sharing it 🙌

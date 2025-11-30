@@ -11,5 +11,3 @@ tags:
 image:
   caption: 'Image credit: [**RA-L**](https://www.ieee-ras.org/publications/ra-l)'
 ---
-
-## Did you find this page helpful? Consider sharing it 🙌

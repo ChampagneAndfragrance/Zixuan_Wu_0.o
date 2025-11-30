@@ -11,5 +11,3 @@ tags:
 image:
   caption: 'Image credit: [**IROS 2023**](https://2023.ieee-iros.org/)'
 ---
-
-## Did you find this page helpful? Consider sharing it 🙌

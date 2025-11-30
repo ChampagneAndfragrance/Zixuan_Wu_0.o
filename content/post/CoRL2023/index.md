@@ -11,5 +11,4 @@ tags:
 image:
   caption: 'Image credit: [**CoRL 2023**](https://www.corl2023.org/)'
 ---
-
-## Did you find this page helpful? Consider sharing it 🙌
+我向湖中投入一颗石子

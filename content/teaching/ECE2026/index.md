@@ -9,5 +9,3 @@ tags:
 image:
   caption: 'Lead the lab experiments of ECE 2026'
 ---
-
-## Did you find this page helpful? Consider sharing it 🙌

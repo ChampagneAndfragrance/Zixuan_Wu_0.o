@@ -11,5 +11,3 @@ tags:
 image:
   caption: 'Image credit: [**TMech**](http://www.ieee-asme-mechatronics.info/)'
 ---
-
-## Did you find this page helpful? Consider sharing it 🙌

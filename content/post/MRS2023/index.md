@@ -11,5 +11,3 @@ tags:
 image:
   caption: 'Image credit: [**MRS 2023**](https://sites.bu.edu/mrs2023/)'
 ---
-
-## Did you find this page helpful? Consider sharing it 🙌

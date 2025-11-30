@@ -9,5 +9,3 @@ tags:
 image:
   caption: 'Image credit: [**ACM**](https://www.sigarch.org/welcome-to-computer-architecture-today/)'
 ---
-
-## Did you find this page helpful? Consider sharing it 🙌

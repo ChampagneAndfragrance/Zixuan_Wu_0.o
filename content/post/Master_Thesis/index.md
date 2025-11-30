@@ -10,5 +10,3 @@ tags:
 image:
   caption: 'Image credit: [**Gatech**](https://www.youtube.com/watch?v=RyjoZ41kcs4)'
 ---
-
-## Did you find this page helpful? Consider sharing it 🙌
