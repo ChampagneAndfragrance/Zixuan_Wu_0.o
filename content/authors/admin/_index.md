@@ -95,7 +95,7 @@ work:
     summary: |
       Responsibilities include:
       - Scene Understanding and GenAI for Autonomous Driving: Design a cross-domain generalizable parking pipeline with diffusion and visual foundation model
-      - Submit a first-authored ICRA paper on _Dino-Diffusion Modular Designs Bridge the Cross-Domain Gap in Autonomous Parking. Managed by [Dr. Yuliang Guo](https://yuliangguo.github.io/).
+      - Submit a first-authored ICRA paper on _Dino-Diffusion Modular Designs Bridge the Cross-Domain Gap in Autonomous Parking_. Managed by [Dr. Yuliang Guo](https://yuliangguo.github.io/).
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
