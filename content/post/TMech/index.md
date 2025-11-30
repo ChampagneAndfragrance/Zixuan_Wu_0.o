@@ -1,5 +1,5 @@
 ---
-title: IEEE Robotics and Automation Letters
+title: IEEE/ASME Transactions on Mechatronics
 summary: One of our paper has been accpeted by TMech and will present on AIM 2022!
 date: 2022-06-03
 authors:
@@ -11,3 +11,4 @@ tags:
 image:
   caption: 'Image credit: [**TMech**](http://www.ieee-asme-mechatronics.info/)'
 ---
+在夜里循着亮光，却被闪电击中。

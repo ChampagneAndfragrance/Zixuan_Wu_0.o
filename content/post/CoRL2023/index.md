@@ -11,4 +11,4 @@ tags:
 image:
   caption: 'Image credit: [**CoRL 2023**](https://www.corl2023.org/)'
 ---
-我向湖中投入一颗石子
+我向湖中投入一粒石子，它漾起阵阵涟漪，而后又归于平静。
