@@ -11,4 +11,4 @@ tags:
 image:
   caption: 'Image credit: [**IROS 2023**](https://2023.ieee-iros.org/)'
 ---
-寻寻觅觅，游来荡去。
+寻寻觅觅。
