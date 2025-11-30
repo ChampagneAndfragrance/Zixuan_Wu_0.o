@@ -11,4 +11,4 @@ tags:
 image:
   caption: 'Image credit: [**IROS 2023**](https://2023.ieee-iros.org/)'
 ---
-要知道也不过是瞬息的繁华，一时的欢乐，万不可忘了那‘盛筵必散’的俗语。
+寻寻觅觅，游来荡去。
