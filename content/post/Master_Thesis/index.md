@@ -10,4 +10,4 @@ tags:
 image:
   caption: 'Image credit: [**Gatech**](https://www.youtube.com/watch?v=RyjoZ41kcs4)'
 ---
-夏日的袭人花香。
+花香袭人。

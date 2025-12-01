@@ -11,4 +11,4 @@ tags:
 image:
   caption: 'Image credit: [**TMech**](http://www.ieee-asme-mechatronics.info/)'
 ---
-在夜里循着亮光。
+星光点点。
